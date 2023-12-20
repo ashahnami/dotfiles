@@ -9,9 +9,15 @@ return require('packer').startup(function(use)
 
   use ({ 
 	  "catppuccin/nvim",
-	  as = "catppuccin", 
+	  as = "catppuccin"
+--	  config = function()
+--		  vim.cmd('colorscheme catppuccin-macchiato')
+--	  end
+  })
+
+  use ({"rebelot/kanagawa.nvim",
 	  config = function()
-		  vim.cmd('colorscheme catppuccin-macchiato')
+		  vim.cmd('colorscheme kanagawa-dragon')
 	  end
   })
 

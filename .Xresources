@@ -1,0 +1,41 @@
+Xft.dpi: 158
+
+xterm*faceName: HackNerdFont
+xterm*faceSize: 14
+
+! special
+xterm.vt100.foreground:   #C5C9C5
+xterm.vt100.background:   #181616
+xterm.vt100.cursorColor:  #dcd7ba
+
+! black
+xterm.vt100.color0:       #090618
+xterm.vt100.color8:       #727169
+
+! red
+xterm.vt100.color1:       #c34043
+xterm.vt100.color9:       #e82424
+
+! green
+xterm.vt100.color2:       #76946a
+xterm.vt100.color10:      #98bb6c
+
+! yellow
+xterm.vt100.color3:       #c0a36e
+xterm.vt100.color11:      #e6c384
+
+! blue
+xterm.vt100.color4:       #7e9cd8
+xterm.vt100.color12:      #7fb4ca
+
+! magenta
+xterm.vt100.color5:       #957fb8
+xterm.vt100.color13:      #938aa9
+
+! cyan
+xterm.vt100.color6:       #6a9589
+xterm.vt100.color14:      #7aa89f
+
+! white
+xterm.vt100.color7:       #c8c093
+xterm.vt100.color15:      #dcd7ba
